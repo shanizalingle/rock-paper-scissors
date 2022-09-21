@@ -1,0 +1,15 @@
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.csproj.AssemblyReference.cache
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.AssemblyInfoInputs.cache
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.AssemblyInfo.cs
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.csproj.CoreCompileInputs.cache
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/RPC.deps.json
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/RPC.runtimeconfig.json
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/RPC.runtimeconfig.dev.json
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/RPC.dll
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/ref/RPC.dll
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/bin/Debug/net5.0/RPC.pdb
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.dll
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/ref/RPC.dll
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.pdb
+/Users/shanizalingle/Desktop/projects/rock-paper-scissors/RPC/obj/Debug/net5.0/RPC.genruntimeconfig.cache
